@@ -1,5 +1,13 @@
 # ILD-Fibrosis-Segmentation
-Code from the publication: Hernández-Vázquez, N., Santos-Arce, S.R., Hernández-Gordillo, D. et al. Fibrous Tissue Semantic Segmentation in CT Images of Diffuse Interstitial Lung Disease. J Digit Imaging. Inform. med. (2025). [https://doi.org/10.1007/s10278-025-01420-x](https://doi.org/10.1007/s10278-025-01420-x)
+This repository contains the Python code associated with the research published in the following article:
+
+Hernández-Vázquez, N., Santos-Arce, S.R., Hernández-Gordillo, D., et al.
+Fibrous Tissue Semantic Segmentation in CT Images of Diffuse Interstitial Lung Disease.
+Journal of Digital Imaging and Medical Informatics, 2025.
+
+The code provided here was developed and used during the study and supports the findings reported in the publication.
+
+[https://doi.org/10.1007/s10278-025-01420-x](https://doi.org/10.1007/s10278-025-01420-x)
 
 # Reference to the Original Repository
 
